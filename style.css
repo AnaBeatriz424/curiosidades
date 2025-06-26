@@ -24,10 +24,15 @@ body {
     margin: 0 15px;
  }
   nav ul li a{
-    color: rgb(0, 0, 0);
+    color: rgb(228, 217, 217);
     text-decoration: none;
-    font-weight: bold;
+    transition:color 0.3s;
   }
+
+  nav ul li a:hover{
+    color: #ffcc00;
+  }
+  
    main{
     max-width: 880px;
     margin: 20px auto;
