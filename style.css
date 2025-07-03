@@ -24,7 +24,7 @@ body {
     margin: 0 15px;
  }
  nav ul li a {
-  color: rgb(2, 2, 2);
+  color: #222;
   text-decoration: none;
   transition: color 0.3s;
 }
